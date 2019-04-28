@@ -1,0 +1,14 @@
+Epilog:  nodes=1:ppn=2
+Epilog:  neednodes=1:ppn=2
+Epilog:  walltime=00:20:00
+Matrix-vector product (c[m] = a[m, n] * b[n]; m = 20000, n = 20000)
+Memory used: 3052 MiB
+Elapsed time (serial): 3.093761 sec.
+Epilog:  nodes=1:ppn=2
+Epilog:  neednodes=1:ppn=2
+Epilog:  walltime=00:20:00
+Epilog:  cput=00:00:08
+Epilog:  vmem=3389268kb
+Epilog:  walltime=00:00:08
+Epilog:  mem=3132384kb
+Epilog:  energy_used=0
